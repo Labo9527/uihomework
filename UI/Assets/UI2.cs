@@ -9,10 +9,7 @@ public class UI2 : MonoBehaviour {
     public bool increase;
 
     void Start () {
-        increase=true;
-        // m_SliderRectTransform = gameObject.GetComponent<Slider>().transform as RectTransform;
-        // //transform.parent = Canvas.transform;
-        // transform.SetParent(Canvas.transform);        
+        increase=true;     
 
     }
 
